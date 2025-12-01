@@ -1,0 +1,10 @@
+streamlit
+fastembed
+python-docx
+pdfplumber
+reportlab
+numpy
+scikit-learn
+PyPDF2
+pandas
+pydantic<2
